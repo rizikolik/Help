@@ -9,7 +9,9 @@ html {
     font-size: 15px;
   }
 }
-
+li{
+  list-style-type:none;
+}
 input:focus {
   outline: none;
 }
