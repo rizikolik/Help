@@ -9,8 +9,8 @@
             <li>HTML</li>
             <li>CSS</li>
        </ul>
-        <p>See Original Page=> <a href="https://www.yelp.com/"></a></p> 
-         <p> See My Study  => <a href="https://yelpreplica.herokuapp.com/"></a></p>
+        <p>See Original Page <a href="https://www.yelp.com/">=></a></p> 
+         <p> See My Study   <a href="https://yelpreplica.herokuapp.com/">=></a></p>
             
 </body>
 </html>
