@@ -8,8 +8,7 @@
             <li>Yelp API </li>
             <li>HTML</li>
             <li>CSS</li>
-            
-        </ul>
+       </ul>
          <p>Original Page</p> 
          <p><a href="https://yelpreplica.herokuapp.com/">My Study  =></a></p>
             
