@@ -13,7 +13,7 @@ constructor(props){
    businesses:[]
 
  }
-  this.searchYelp=this.searchYelp.bind(this);
+  this.searchYelp=this.searchYelp.bind(this)
 }
 
   searchYelp(term,location,sortBy){
